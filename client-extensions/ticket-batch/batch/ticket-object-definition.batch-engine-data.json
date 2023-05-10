@@ -49,10 +49,10 @@
 					"errorMessage": {
 					},
 					"label": {
-						"en_US": "Ticket Update 1"
+						"en_US": "Ticket Node Update 1"
 					},
 					"name": "TicketUpdate1",
-					"objectActionExecutorKey": "function#ticket-object-action-1",
+					"objectActionExecutorKey": "function#ticket-node-object-action-1",
 					"objectActionTriggerKey": "onAfterUpdate",
 					"parameters": {
 					},
@@ -69,10 +69,10 @@
 					"errorMessage": {
 					},
 					"label": {
-						"en_US": "Ticket Update 2"
+						"en_US": "Ticket Node Update 2"
 					},
 					"name": "TicketUpdate2",
-					"objectActionExecutorKey": "function#ticket-object-action-2",
+					"objectActionExecutorKey": "function#ticket-node-object-action-2",
 					"objectActionTriggerKey": "onAfterUpdate",
 					"parameters": {
 					},
